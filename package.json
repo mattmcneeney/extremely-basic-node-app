@@ -1,0 +1,19 @@
+{
+  "name": "extremely-basic-node-app",
+  "version": "1.0.0",
+  "description": "An extremely basic node app for Cloud Foundry demos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Matthew McNeeney <mmcneeney@pivotal.io>",
+  "repository": "https://github.com/mattmcneeney/no-op",
+  "license": "ISC",
+  "dependencies": {
+    "express": "latest",
+    "body-parser": "latest"
+  },
+  "engines": {
+    "node": "7.x.x"
+  }
+}
