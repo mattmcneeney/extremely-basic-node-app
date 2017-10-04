@@ -10,8 +10,9 @@
   "repository": "https://github.com/mattmcneeney/no-op",
   "license": "ISC",
   "dependencies": {
-    "express": "latest",
-    "body-parser": "latest"
+    "body-parser": "latest",
+    "cfenv": "^1.0.4",
+    "express": "latest"
   },
   "engines": {
     "node": "7.x.x"
