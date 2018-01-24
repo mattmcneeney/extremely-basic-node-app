@@ -1,5 +1,5 @@
 applications:
-- name: extremely-basic-node-app
+- name: app
   buildpack: https://github.com/cloudfoundry/nodejs-buildpack
   instances: 1
   memory: 512M
