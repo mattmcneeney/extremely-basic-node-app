@@ -12,7 +12,8 @@
   "dependencies": {
     "body-parser": "latest",
     "cfenv": "^1.0.4",
-    "express": "latest"
+    "express": "latest",
+    "mime": ">=1.4.1"
   },
   "engines": {
     "node": "9.x.x"
