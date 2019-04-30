@@ -13,7 +13,8 @@
     "body-parser": "latest",
     "cfenv": "^1.0.4",
     "express": "latest",
-    "mime": ">=1.4.1"
+    "mime": ">=1.4.1",
+    "npm": "^6.9.0"
   },
   "engines": {
     "node": "9.x.x"
